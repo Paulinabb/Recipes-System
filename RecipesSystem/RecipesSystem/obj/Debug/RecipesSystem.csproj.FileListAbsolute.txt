@@ -1,0 +1,170 @@
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\ApplicationInsights.config
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\csc.exe
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\vbc.exe
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\RecipesSystem.dll.config
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\RecipesSystem.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\RecipesSystem.pdb
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Antlr3.Runtime.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\EntityFramework.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\EntityFramework.SqlServer.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.Web.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.WindowsServer.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.ApplicationInsights.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Google.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Web.Infrastructure.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Newtonsoft.Json.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Owin.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Helpers.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Mvc.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Optimization.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Razor.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Deployment.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Razor.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\WebGrease.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.Web.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AI.WindowsServer.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.ApplicationInsights.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Helpers.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Mvc.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Optimization.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.Razor.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Deployment.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Razor.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Antlr3.Runtime.pdb
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Newtonsoft.Json.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\EntityFramework.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\EntityFramework.SqlServer.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Google.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csprojResolveAssemblyReference.cache
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.dll
+c:\users\paulina\documents\visual studio 2015\Projects\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.pdb
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\ApplicationInsights.config
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\csc.exe
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\vbc.exe
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\RecipesSystem.dll.config
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\RecipesSystem.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\RecipesSystem.pdb
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Antlr3.Runtime.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\EntityFramework.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\EntityFramework.SqlServer.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Newtonsoft.Json.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Owin.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Net.Http.Formatting.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Helpers.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Http.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Http.WebHost.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Mvc.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Optimization.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Razor.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Razor.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\WebGrease.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Net.Http.Formatting.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Http.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Http.WebHost.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Helpers.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Mvc.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Optimization.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.Razor.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\System.Web.WebPages.Razor.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Antlr3.Runtime.pdb
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Newtonsoft.Json.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\EntityFramework.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\EntityFramework.SqlServer.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.csprojResolveAssemblyReference.cache
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.dll
+C:\Users\Paulina\Desktop\RecipesSystem\RecipesSystem\obj\Debug\RecipesSystem.pdb
